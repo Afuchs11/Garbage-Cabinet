@@ -9,8 +9,8 @@ module board( size, label = false ) {
     echo( str( size[2], " ", label, ": ", size[0], "x", size[1]));
 }
 
-width_of_can = 11;
-height_of_can = 20;
+width_of_can = 17;
+height_of_can = 22;
 depth_of_can = 15.5;
 number_of_cans = 2;
 bead_board_inset = 1/2;
